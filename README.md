@@ -2,11 +2,11 @@
 <h3 align="center">I am software engineering and i have a skills in the programming</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 🌱 I’m currently learning **full stack with Django and React**
+- 🌱 I’m currently learning **backend developer with laravel **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdelmaksoude](https://github.com/Abdelmaksoude)
 
-- 💬 Ask me about **React , Django**
+- 💬 Ask me about ** php , laravel**
 
 - 📫 How to reach me **abdelmaqsoudgomma@gmail.com**
 
